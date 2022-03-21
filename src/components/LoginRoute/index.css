@@ -1,0 +1,100 @@
+.Login {
+  background-color: #f1f7ff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.Rectangle-8 {
+  border-radius: 8px;
+  background-color: #ffffff;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+img.iB-HUBSlogo {
+  width: 90px;
+  height: 90px;
+}
+.Hi-there-login {
+  width: 134px;
+  text-align: center;
+  font-family: "Rubik";
+  font-size: 32px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  color: #171f46;
+  font-weight: 400;
+  margin-top: 15px;
+}
+.input-container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  width: 100%;
+}
+.input-label {
+  width: 66px;
+  height: 16px;
+  margin: 0 254px 8px 0;
+  font-family: "HKGrotesk";
+  font-size: 12px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: 0.12px;
+  color: #7e858e;
+}
+.login-input-box {
+  width: 320px;
+  height: 40px;
+  margin: 8px 0 0;
+  padding: 8px 161px 8px 16px;
+  border-radius: 2px;
+  border: solid 1px #7e858e;
+  background-color: #ffffff;
+  outline: none;
+  color: #171f46;
+}
+.login-button {
+  width: 320px;
+  height: 40px;
+  margin: 32px 2px 32px 0;
+  padding: 8px 133.3px 8px 134.3px;
+  border-radius: 4px;
+  background-color: #0b69ff;
+  cursor: pointer;
+  outline: none;
+  font-family: "Rubik";
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  border: none;
+  color: #ffffff;
+}
+.Dont-have-an-account-Signup {
+  width: 200px;
+  height: 24px;
+
+  font-family: "HKGrotesk";
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.71;
+  letter-spacing: normal;
+  color: #171f46;
+}
+.Dont-have-an-account-Signup .Typo14BrightBlueHKGroteskRegular {
+  color: #0b69ff;
+}
